@@ -27,11 +27,13 @@
    ```bash
    go get -u github.com/joho/godotenv
 3. Создайте файл .env с настройками:
-```DATA_FILE=data.txt
-LOG_FILE=worker.logg
+   ```bash
+   DATA_FILE=data.txt
+   LOG_FILE=worker.logg
 
 4. Запустите программу
-```go run main.go
+   ```bash
+   go run main.go
 
 ## Использование
 
