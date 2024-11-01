@@ -25,13 +25,13 @@
 2. Установите зависимости:
 
    ```bash
-   go get -u github.com/joho/godotenv```
+   go get -u github.com/joho/godotenv
 3. Создайте файл .env с настройками:
 ```DATA_FILE=data.txt
-LOG_FILE=worker.logg```
+LOG_FILE=worker.logg
 
 4. Запустите программу
-```go run main.go```
+```go run main.go
 
 ## Использование
 
